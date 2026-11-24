@@ -11,11 +11,11 @@
 </p>
 
 <p align="center">
-  <a href="https://rollcall-it.com">Website</a> ·
-  <a href="https://rollcall-it.com/pricing">Pricing</a> ·
-  <a href="https://docs.rollcall-it.com">Documentation</a> ·
-  <a href="https://rollcall-it.com/security">Security</a> ·
-  <a href="https://app.rollcall-it.com/signup">Start 14-Day Trial</a>
+  <a href="https://rollcallit.com">Website</a> ·
+  <a href="https://rollcallit.com/pricing">Pricing</a> ·
+  <a href="https://docs.rollcallit.com">Documentation</a> ·
+  <a href="https://rollcallit.com/security">Security</a> ·
+  <a href="https://app.rollcallit.com/signup">Start 14-Day Trial</a>
 </p>
 
 ---
@@ -27,7 +27,7 @@
 Rollcall is available in two editions built on the same open-core engine:
 
 - **[Open-Rollcall (Community Edition)](https://github.com/Rollcall-IT/Open-Rollcall)** — Free, open-source (`AGPL-3.0-or-later`), self-hosted Docker Compose stack for a single Microsoft 365 tenant, installed with one command.
-- **[Rollcall Cloud](https://app.rollcall-it.com)** — Fully managed Azure SaaS for internal IT teams and multi-tenant Managed Service Providers (MSPs), adding four-eyes governance, Conditional Access safety rails, scheduling, white-label Welcome Packs, compliance audit exports, and multi-tenant MSP management.
+- **[Rollcall Cloud](https://app.rollcallit.com)** — Fully managed Azure SaaS for internal IT teams and multi-tenant Managed Service Providers (MSPs), adding four-eyes governance, Conditional Access safety rails, scheduling, white-label Welcome Packs, compliance audit exports, and multi-tenant MSP management.
 
 ---
 
@@ -67,7 +67,7 @@ Rollcall is available in two editions built on the same open-core engine:
 
 ## Pricing Structure
 
-Start with a **14-day cardless free trial** of **Pro** or **MSP Pro** on [Rollcall Cloud](https://app.rollcall-it.com/signup), or self-host **Open-Rollcall Community Edition** free forever. Annual billing saves ~18%.
+Start with a **14-day cardless free trial** of **Pro** or **MSP Pro** on [Rollcall Cloud](https://app.rollcallit.com/signup), or self-host **Open-Rollcall Community Edition** free forever. Annual billing saves ~18%.
 
 ### Self-Hosted Open Source
 
@@ -115,10 +115,10 @@ Billed per **managed client Microsoft 365 tenant** (5-tenant minimum). **Unlimit
 
 ## Get Started
 
-- **Try Rollcall Cloud:** [Start a 14-day cardless free trial](https://app.rollcall-it.com/signup) or estimate your cost with the [interactive pricing calculator](https://rollcall-it.com/pricing).
-- **Self-host Open-Rollcall CE:** Explore [Rollcall-IT/Open-Rollcall](https://github.com/Rollcall-IT/Open-Rollcall) and follow the [Day-1 deployment guide](https://docs.rollcall-it.com).
-- **Enterprise & MSP inquiries:** [sales@rollcall-it.com](mailto:sales@rollcall-it.com)
-- **Security disclosures:** [security@rollcall-it.com](mailto:security@rollcall-it.com)
+- **Try Rollcall Cloud:** [Start a 14-day cardless free trial](https://app.rollcallit.com/signup) or estimate your cost with the [interactive pricing calculator](https://rollcallit.com/pricing).
+- **Self-host Open-Rollcall CE:** Explore [Rollcall-IT/Open-Rollcall](https://github.com/Rollcall-IT/Open-Rollcall) and follow the [Day-1 deployment guide](https://docs.rollcallit.com).
+- **Enterprise & MSP inquiries:** [sales@rollcallit.com](mailto:sales@rollcallit.com)
+- **Security disclosures:** [security@rollcallit.com](mailto:security@rollcallit.com)
 
 ---
 
